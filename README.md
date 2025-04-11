@@ -69,6 +69,8 @@ git clone https://github.com/your-username/exam-cheating-detection.git
 # 2. Navigate into the project folder
 cd exam-cheating-detection
 
+#⚠️ Note: You must place the face-api models inside a /public/models folder.
+ You can download them from: https://github.com/justadudewhohacks/face-api.js-models
 # 3. Install dependencies
 npm install
 
